@@ -1,2 +1,6 @@
 # Manual-robot
-just another repository
+
+Hello world
+
+a machine capable of carrying out a complex series of actions automatically.
+add photo
